@@ -12,7 +12,7 @@ This project is a Book Store webpage designed to provide an online platform for 
 # Getting Started
 To get a local copy up and running, follow these simple steps.
 
-#Prerequisites
+# Prerequisites
 Make sure you have a web browser installed on your machine.
 
 # Future Modifications
